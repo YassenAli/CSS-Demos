@@ -1,0 +1,33 @@
+/* This file demonstrates basic responsive design techniques using media queries. */
+
+/* Base styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Media query for tablets */
+@media (max-width: 768px) {
+    .container {
+        background-color: #f0f0f0;
+    }
+}
+
+/* Media query for mobile phones */
+@media (max-width: 480px) {
+    .container {
+        background-color: #e0e0e0;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,46 @@
+/* This file demonstrates basic typography styles. */
+
+/* Body and general text styles */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2em;
+    color: #4CAF50;
+}
+
+h2 {
+    font-size: 1.75em;
+    color: #2196F3;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #FF9800;
+}
+
+/* Paragraphs */
+p {
+    margin: 1em 0;
+}
+
+/* Links */
+a {
+    color: #009688;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

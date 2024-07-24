@@ -1,0 +1,53 @@
+/*  This file demonstrates basic CSS styling such as color, font size, padding, margin, and borders. */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+h1 {
+    color: #4CAF50;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px 20px;
+}
+
+/* Link styles */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* List styles */
+ol, ul {
+    margin: 20px;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+}
