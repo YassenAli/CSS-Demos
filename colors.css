@@ -15,35 +15,18 @@ h1{
     color:blue;
 }
 
+p {
+    color: pink;
+  }
 
+  div {
+    color: lightblue;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  p.center {
+    text-align: center;
+    color: lightgreen;
+  }
 
 
 
