@@ -1,0 +1,33 @@
+div {
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  div:hover {
+    background-color: blue;
+  }
+  
+  div.myclass:hover{
+    background-color:brown;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

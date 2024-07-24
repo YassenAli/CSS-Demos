@@ -1,0 +1,40 @@
+p {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+  }
+  
+  div:hover p {
+    display: block;
+  }
+  
+  div {
+    background-color: lightblue;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

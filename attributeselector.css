@@ -1,0 +1,61 @@
+a[target="_blank"] {
+    background-color: yellow;
+    color:red;
+  }
+  
+  h1{
+    border:2px solid Tomato;
+    width:50%;
+  }
+  
+  h2{
+    border:5px dotted Tomato;
+    margin-top:50px;
+    margin-right:50px;
+    margin-left:50px;
+    
+  }
+  h3{
+    border:10px dashed Tomato;
+    margin-top:120px;
+    padding-top:50px;
+    padding-bottom: 60px;
+  }
+  
+  p[title|=fl]{
+    background-color: red;
+  }
+  
+  p[title^=flower]{
+    background-color: green;
+  }
+  
+  p[title$=sdf]{
+    background-color: blue;
+  }
+  
+  p[title*=dd]{
+    background-color: yellow;
+  }
+  
+  p[title~=flower]{
+    background-color: pink;
+  }
+  
+  p[title*=flower]{
+    background-color: orange;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

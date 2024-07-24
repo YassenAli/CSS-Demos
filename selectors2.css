@@ -1,0 +1,62 @@
+a[target="_blank"]{
+    background-color: yellow;
+  }
+  
+  h2:first-child{
+    color: red;
+  }
+  
+  p:nth-child(2){
+    color: green;
+  }
+  
+  p:nth-child(3){
+    color: blue;
+  }
+  
+  a[target="_top"]{
+    background-color: pink;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
