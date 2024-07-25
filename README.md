@@ -2,7 +2,6 @@
 
 This repository contains various CSS examples created during my learning journey at the Faculty of Computers and Artificial Intelligence, Cairo University, in the Web Technology course.
 
-
 ## Overview
 
 The examples in this repository cover the basics of CSS including styling elements, layout techniques, responsive design, typography and so on.
